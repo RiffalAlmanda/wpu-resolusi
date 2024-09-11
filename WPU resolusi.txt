@@ -1,5 +1,4 @@
 WPU resolusi
+- html
 - membuat file
 - membuat video
-- membuat platform
-- menambahkan html dan css
