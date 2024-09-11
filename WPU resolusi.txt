@@ -1,4 +1,5 @@
 WPU resolusi
 - membuat file
 - membuat video
-- membuat platform
+- css
+
