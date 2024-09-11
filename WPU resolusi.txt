@@ -2,5 +2,3 @@ WPU resolusi
 - html
 - membuat file
 - membuat video
-- css
-
